@@ -1,0 +1,11 @@
+Model Information:
+* title:	TRASH
+* source:	https://sketchfab.com/3d-models/trash-3914e499105e4bdda11c6a2b3d2212f7
+* author:	vislaw (https://sketchfab.com/vislaw)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TRASH" (https://sketchfab.com/3d-models/trash-3914e499105e4bdda11c6a2b3d2212f7) by vislaw (https://sketchfab.com/vislaw) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
